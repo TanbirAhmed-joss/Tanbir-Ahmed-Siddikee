@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Tanbir Media Streaming Engine",
+  "description": "A robust and aesthetic platform for live classes, featuring secure room codes, interactive chat, and a seamless teacher-student experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
